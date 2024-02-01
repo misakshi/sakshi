@@ -1,0 +1,73 @@
+p1{
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-style:italic;
+    color:crimson;
+    padding-left:10px;
+    background-color:cornsilk;
+    box-shadow: 0 0 10px rgba(238, 101, 101, 0.1);
+
+}
+body {
+    background-color:cornsilk;
+  }
+  h1{
+    margin: 50px;
+      padding: 20px;
+      background-color: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  h2{
+    box-shadow: 0 0 5px rgba(238, 101, 101, 0.1);
+    padding-right: 10px;
+    padding-right: 10px;
+    padding-top: 13px;
+    padding-bottom: 14px;
+    background-color: antiquewhite;
+  }
+  p2{
+    font-size:larger;
+    font-weight: bold;
+    font-style: oblique;
+    color:darkolivegreen;
+  }
+  p3{
+    color:darkred;
+    font-size: larger;
+    font-style: oblique;
+    
+  }
+  p4{
+    color:darkgreen;
+    font-style: oblique;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  p5{
+    color:darkblue;
+    font-size: larger;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  p6{
+    color:maroon;
+    font-style: oblique;
+    font-size: larger;
+  }
+h3{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+    color:darkmagenta;
+    font-size: larger;
+    font-style: oblique;
+}
+p7{
+    color:darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-size: xx-large;
+}
